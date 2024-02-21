@@ -9,7 +9,7 @@ Welcome to the Router Nitro Course! This README serves as a guide to the structu
 ![image](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/47991955-f168-4362-8fee-4313935de131)
 
 
-# `Company Information`
+**Company Information**
 
 Router Protocol is a solution introduced to address the issues hindering the usability of cross-chain liquidity migration in the DeFi ecosystem. It acts as a bridge connecting various layer 1 and layer 2 blockchains, allowing for the flow of contract-level data across them. The Router Protocol can either transfer tokens between chains or initiate operations on one chain and execute them on another.
 
