@@ -4,6 +4,8 @@ Welcome to the Module 2 Of the Router Nitro CookBook. In this module, we'll be u
 
 Asset swapping, and asset transfer are concepts related to Blockchain and CrossChain interoperability, each serving different purposes in enabling the movement of assets across different Blockchain Networks. Here's an explanation of each term:
 
+![Screenshot 2024-02-21 at 4 13 01 PM](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/99a5a476-f335-4fb3-ab67-71e4a993ef05)
+
 ### What is Asset Swapping?
 
 Asset swapping on the blockchain lets you exchange tokens from one blockchain network for tokens on another, making it easier for you to diversify your digital assets or use them in different blockchain systems. 
