@@ -12,11 +12,16 @@ Asset swapping on the blockchain lets you exchange tokens from one blockchain ne
 
 With asset swapping, you could exchange those Matic tokens for AVAX tokens on the Avalanche blockchain. It's like trading your tokens from one blockchain network for tokens on a completely different blockchain, allowing you to switch between different types of digital assets without those blockchains needing to directly connect with each other.
 
+![image](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/bd28017a-ecaf-44bd-b61a-d6484d898646)
+
+
 ### What is Asset Transfer?
 
 Asset transfer refers to the process of moving digital assets from one user or address to another across different blockchain networks.
 
 For example , you can transfer, let's say, some USDT from the Polygon blockchain to the Avalanche blockchain
+
+![image](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/0f3dfb45-19c8-45fc-94e5-28df11e712b3)
 
 
 # Conclusion
