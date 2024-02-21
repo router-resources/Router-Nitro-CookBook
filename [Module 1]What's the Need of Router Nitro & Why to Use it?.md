@@ -2,6 +2,8 @@ Welcome to the Module 1 Of the Router Nitro CookBook. In this module, we'll be u
 
 # Module 1: What's the Need of Router Nitro & Why to Use it?
 
+![image](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/11cdb796-f40e-48ca-920d-23e3895dc0ce)
+
 ### Why do we need CrossChain Bridges?
 
 Several factors highlight the need for cross-chain bridges:
@@ -15,6 +17,8 @@ Types of Cross-Chain Bridges:
 
 
 ### Why to Use Router Nitro?
+
+![image](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/47fe0361-b156-4c24-920d-37d1e8062814)
 
 - Router Nitro is the most efficient intent based CrossChain Bridge in Web3. Nitro ensures fund safety by allowing forwarders to claim funds only after verified settlement, deterring malicious activities for robust security.
 
