@@ -12,6 +12,9 @@ Welcome to the Module 3 Of the Router Nitro CookBook. In this module, we'll be u
 
 ### Statistics Of Router Nitro
 
+![Screenshot 2024-02-21 at 4 17 25 PM](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/3c602491-bb71-4f22-9cc6-10db4c51411f)
+
+
 - At the time of writing, 27760+ transactions have been made on the mainnet of Router Nitro, with a traffic of more than 1130 unique users.
 
 - Within just 25 days of launch, 110+ assets have been bridged with a total volume of transactions of $17.57M.
@@ -30,7 +33,7 @@ Router Nitro, as a CrossChain swapping engine or protocol, facilitates seamless 
 
 The statistics of Router Nitro reflect its significant impact and adoption within the blockchain community. Router Nitro has demonstrated its efficacy in facilitating cross-chain asset transfers.
 
-Within a short span of 20 days since its launch, Router Nitro has bridged over 110 assets, totaling a transaction volume of $4.8M. These statistics underscore the growing demand for cross-chain interoperability solutions and Router Nitro's role in fulfilling this need.
+Within a short span of 7 days since its launch, Router Nitro bridged over 80+ assets, totaling a transaction volume of $4.8M. These statistics underscore the growing demand for cross-chain interoperability solutions and Router Nitro's role in fulfilling this need.
 
 To explore the current statistics and track the progress of Router Nitro, users can visit the official Explorer at [Router Nitro Explorer](https://explorer.routernitro.com/).
 
