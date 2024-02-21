@@ -29,12 +29,6 @@ Currently Router Nitro is supporting 14+ Chains and collaborating with other Cha
 
 In conclusion, Module 3 has provided an insightful introduction to Router Nitro and highlighted its latest statistics since the launch of its mainnet. Router Nitro serves as a crucial solution addressing the challenges faced in cross-chain liquidity migration within the DeFi ecosystem.
 
-Router Nitro, as a CrossChain swapping engine or protocol, facilitates seamless asset transfers across different blockchain networks. Its trustless mechanism ensures secure and efficient management of CrossChain asset transfers, with forwarders playing a pivotal role in the process.
-
-The statistics of Router Nitro reflect its significant impact and adoption within the blockchain community. Router Nitro has demonstrated its efficacy in facilitating cross-chain asset transfers.
-
-Within a short span of 7 days since its launch, Router Nitro bridged over 80+ assets, totaling a transaction volume of $4.8M. These statistics underscore the growing demand for cross-chain interoperability solutions and Router Nitro's role in fulfilling this need.
-
 To explore the current statistics and track the progress of Router Nitro, users can visit the official Explorer at [Router Nitro Explorer](https://explorer.routernitro.com/).
 
 As we move forward in the course, we will delve deeper into the technical aspects and practical applications of Router Nitro, equipping participants with the knowledge and skills to leverage its capabilities effectively in the blockchain ecosystem.
