@@ -1,19 +1,12 @@
-# Router Nitro Course CookBook
+# `Router Nitro Course CookBook`
 
 ![Screenshot 2024-02-14 at 10 17 43 PM](https://github.com/ShivankK26/Router-Nitro-CookBook/assets/115289871/5e0487c0-8170-4a74-ad60-90c91a57e8a8)
 
 Welcome to the Router Nitro Course! This README serves as a guide to the structure and content of the course. Below, you'll find the different modules that make up the course curriculum along with brief descriptions of each module.
 
-## Router Protocol
+# `Router Protocol`
 
-<!-- <p align="center" >
-
-<img src="https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg" />
-  </p> -->
-
-<!-- ![router-protocol-crypto-ninjas](https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg) -->
-
-<img src="https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg" width="8000000em" height="400em" />
+![image](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/47991955-f168-4362-8fee-4313935de131)
 
 
 # `Company Information`
