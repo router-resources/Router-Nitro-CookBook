@@ -23,6 +23,4 @@ For example , you can transfer, let's say, some USDT from the Polygon blockchain
 
 In conclusion, Module 2 has provided a comprehensive understanding of asset swapping and asset transfer in the context of blockchain and cross-chain interoperability. We have explored the distinct concepts of asset swapping and asset transfer, each serving different purposes in enabling the movement of assets across different blockchain networks.
 
-Asset swapping facilitates the exchange of digital tokens or assets between different blockchain networks, allowing users to diversify their holdings and access liquidity . On the other hand, asset transfer involves the direct movement of digital assets from one user or address to another within the same blockchain network or across different blockchain networks.
-
 As we progress through the course, we will delve deeper into a Cross Chain asset swapping and transfer engine which helps you do transfer and swapping of assets from one blockchain to another in an efficient , cost effective and secure way. 
