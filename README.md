@@ -53,7 +53,7 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 
 Welcome to the Module 1 Of the Router Nitro CookBook. In this module, we'll be understanding that what's the need of Router Nitro? Why CrossChain Interoperability needs to be catered and why should you only prefer Router Nitro? Let's Begin...
 
-# Module 1: What's the Need of Router Nitro & Why to Use it?
+# `Module 1: What's the Need of Router Nitro & Why to Use it?`
 
 ![image](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/11cdb796-f40e-48ca-920d-23e3895dc0ce)
 
@@ -93,7 +93,7 @@ As we progress through the course, we will delve deeper into the functionalities
 
 Welcome to the Module 2 Of the Router Nitro CookBook. In this module, we'll be understanding that what is Asset Swapping and Asset Transfer? Let's Begin...
 
-# Module 2: What is Asset Swapping and Asset Transfer?
+# `Module 2: What is Asset Swapping and Asset Transfer?`
 
 ![Screenshot 2024-02-21 at 4 13 01 PM](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/99a5a476-f335-4fb3-ab67-71e4a993ef05)
 
@@ -123,7 +123,7 @@ As we progress through the course, we will delve deeper into a Cross Chain asset
 
 Welcome to the Module 3 Of the Router Nitro CookBook. In this module, we'll be understanding what Router Nitro is and what are its latest statistics. Since the launch of Router Nitro mainnet, it has been dominating the industry so let's understand how it has been doing this. Let's Begin...
 
-# Module 3: Introduction to Router Nitro & its Statistics
+# `Module 3: Introduction to Router Nitro & its Statistics`
 
 ### Introduction To Router Nitro
 
@@ -158,7 +158,7 @@ As we move forward in the course, we will delve deeper into the technical aspect
 
 Welcome to the Module 4 Of the Router Nitro CookBook. In this module, we'll be understanding the Difference between Router Nitro and some other Products in Market. Let's Begin...
 
-# Module 4: What's the Difference between Router Nitro & Other Products in the Market?
+# `Module 4: What's the Difference between Router Nitro & Other Products in the Market?`
 
 ![router chain](https://github.com/ShivankK26/Router-Nitro-CookBook/assets/115289871/edac46cf-dadb-4a42-ba1b-503af9d087a6)
 
