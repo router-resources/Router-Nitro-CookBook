@@ -18,6 +18,4 @@ In conclusion, Module 4 has shed light on the distinctive features and advantage
 
 The fragmentation of liquidity across segregated markets poses a significant obstacle for both experienced DeFi users and newcomers alike. While fee-related issues have been mitigated, the lack of interoperability between different blockchain networks remains a pressing concern. Router Nitro emerges as a game-changer in this landscape, offering a seamless solution for enabling liquidity to flow seamlessly between blockchains.
 
-CrossChain bridges play a pivotal role in enhancing capital efficiency and fostering interoperability within the blockchain ecosystem. Router Nitro, as a CrossChain bridge, facilitates the smooth transfer of tokens, data, and smart contract instructions between independent platforms. Its ParaRouter contracts deployed on various blockchains communicate seamlessly via a Central Router, ensuring secure and efficient asset transfers.
-
 As we progress through the course, readers will gain a deeper understanding of Router Nitro's capabilities and its role in driving innovation and efficiency in the DeFi landscape. With Router Nitro, users can navigate the complexities of cross-chain interoperability with confidence and efficiency, unlocking new opportunities for growth and development in the blockchain ecosystem.
