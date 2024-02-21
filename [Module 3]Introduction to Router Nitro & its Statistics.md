@@ -12,9 +12,6 @@ Welcome to the Module 3 Of the Router Nitro CookBook. In this module, we'll be u
 
 ### Statistics Of Router Nitro
 
-![Screenshot 2024-02-21 at 4 13 01 PM](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/99a5a476-f335-4fb3-ab67-71e4a993ef05)
-
-
 - At the time of writing, 27760+ transactions have been made on the mainnet of Router Nitro, with a traffic of more than 1130 unique users.
 
 - Within just 25 days of launch, 110+ assets have been bridged with a total volume of transactions of $17.57M.
