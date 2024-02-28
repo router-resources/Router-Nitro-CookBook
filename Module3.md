@@ -32,3 +32,5 @@ To explore the current statistics and track the progress of Router Nitro, users 
 
 As we move forward in the course, we will delve deeper into the technical aspects and practical applications of Router Nitro, equipping participants with the knowledge and skills to leverage its capabilities effectively in the blockchain ecosystem.
 
+# [Next: Module 4: What's the Difference between Router Nitro & Other Products in the Market?](Module4.md)
+
