@@ -29,15 +29,15 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 ## Index
 
 1. [What's the Need of Router Nitro & Why to Use it?](Module1.md)
-2. [What is Asset Swapping and Asset Transfer?](#2-asset-swapping-and-asset-transfer)
-3. [Introduction to Router Nitro & its Statistics](#3-introduction-to-nitro--statistics-of-nitro)
-4. [What's the Difference between Router Nitro & Other Products in the Market?](#5-differences-between-nitro--other-products-why-nitro-is-the-best)
-5. [What are Some Prerequisites for Learning Router Nitro?](#7-prerequisites-for-nitro)
-6. [Understanding Forwarders and How They Work?](#6-understanding-forwarders-and-how-they-work)
-7. [Explaining the Codebase of Router Nitro - Part 1](#9-explaining-the-codebase---part-1)
-8. [Explaining the Codebase of Router Nitro - Part 2](#10-explaining-the-codebase---part-2)
-9. [Explaining the Codebase of Router Nitro - Part 3](#11-explaining-the-codebase---part-3)
-10. [Summary & Cheatsheets](#12-summary--cheatsheets)
+2. [What is Asset Swapping and Asset Transfer?](Module2.md)
+3. [Introduction to Router Nitro & its Statistics](Module3.md)
+4. [What's the Difference between Router Nitro & Other Products in the Market?](Module4.md)
+5. [What are Some Prerequisites for Learning Router Nitro?](Module5.md)
+6. [Understanding Forwarders and How They Work?](Module6.mdk)
+7. [Explaining the Codebase of Router Nitro - Part 1](Module7.md)
+8. [Explaining the Codebase of Router Nitro - Part 2](Module8.md)
+9. [Explaining the Codebase of Router Nitro - Part 3](Module9.md3)
+10. [Summary & Cheatsheets](Module10.md)
 
 
 
