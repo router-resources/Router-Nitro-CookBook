@@ -37,4 +37,4 @@ In conclusion, Module 1 has provided a comprehensive overview of the need for Ro
 
 As we progress through the course, we will delve deeper into the functionalities and technical aspects of Router Nitro, building upon the foundation established in Module 1 to explore its full potential and applications in real-world scenarios.
 
-# [Next : Module 2](Module2.md)
+# [Next : Module 2: What is Asset Swapping and Asset Transfer? ](Module2.md)
