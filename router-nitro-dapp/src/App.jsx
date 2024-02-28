@@ -810,7 +810,7 @@ function App() {
             setAmount(e.target.value * Math.pow(10, 12));
           }}
         ></input>
-        <h2>Steps Involved</h2>
+        <h2>Steps Involved!</h2>
         <br></br>
         <button
           class="button-51"
