@@ -44,6 +44,4 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 
 
 
-# `Module 10: Summary & Cheatsheets`
 
-Welcome to Module 10 Of Router Nitro CookBook. This is the final module of this CookBook in which you'll get access to the CheetSheet on Router Nitro. Let's Begin...
