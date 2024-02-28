@@ -33,7 +33,7 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 3. [Introduction to Router Nitro & its Statistics](Module3.md)
 4. [What's the Difference between Router Nitro & Other Products in the Market?](Module4.md)
 5. [What are Some Prerequisites for Learning Router Nitro?](Module5.md)
-6. [Understanding Forwarders and How They Work?](Module6.mdk)
+6. [Understanding Forwarders and How They Work?](Module6.md)
 7. [Explaining the Codebase of Router Nitro - Part 1](Module7.md)
 8. [Explaining the Codebase of Router Nitro - Part 2](Module8.md)
 9. [Explaining the Codebase of Router Nitro - Part 3](Module9.md)
