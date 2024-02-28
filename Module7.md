@@ -102,3 +102,5 @@ The module demonstrated a practical example using a demo dApp to transfer USDT f
 3. **Step 3: Execute the Transaction:** With all prerequisites met, users executed the transaction, initiating the cross-chain token transfer from the source to the destination chain.
 
 The module provided detailed insights into each step, including code snippets and explanations, to guide developers through the integration process effectively. By following the outlined steps, developers can seamlessly incorporate Nitro into their dApps, enabling efficient and secure cross-chain token transfers.
+
+# [ Next: Module 8: Explaining the CodeBase of Router Nitro - Part 2](Module8.md)
