@@ -36,7 +36,7 @@ function App() {
       const res = await axios.get(quoteUrl, { params });
       return res.data;
     } catch (e) {
-      console.error(`Fetching quote data from pathfinder: ${e}`);
+      
     }
   };
 
