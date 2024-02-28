@@ -36,7 +36,7 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 6. [Understanding Forwarders and How They Work?](Module6.mdk)
 7. [Explaining the Codebase of Router Nitro - Part 1](Module7.md)
 8. [Explaining the Codebase of Router Nitro - Part 2](Module8.md)
-9. [Explaining the Codebase of Router Nitro - Part 3](Module9.md3)
+9. [Explaining the Codebase of Router Nitro - Part 3](Module9.md)
 10. [Summary & Cheatsheets](Module10.md)
 
 
