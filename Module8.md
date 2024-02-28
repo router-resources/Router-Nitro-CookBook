@@ -120,3 +120,5 @@ The module delved into the codebase, offering insights into the implementation o
 4. **Transaction Handling:** The code efficiently handles the approval transaction, monitoring its status and logging the transaction hash upon successful confirmation.
 
 By providing developers with a clear understanding of the codebase and its functionalities, Module 8 empowers them to seamlessly integrate Router Nitro into their decentralized applications, facilitating efficient and secure cross-chain token transfers. Through these insights, developers can leverage Router Nitro to enhance interoperability across diverse blockchain networks, unlocking new possibilities in the decentralized finance landscape.
+
+# [ Next: Module 9: Explaining the CodeBase of Router Nitro - Part 3 ](Module9.md)
