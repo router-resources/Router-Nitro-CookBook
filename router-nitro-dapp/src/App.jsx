@@ -5,10 +5,13 @@ import "./App.css";
 import ABI from './ABI'
 
 function App() {
+
+  // Token Address on Source and Destination Chain
   const from = "0x22bAA8b6cdd31a0C5D1035d6e72043f4Ce6aF054";
   const to = "0xb452b513552aa0B57c4b1C9372eFEa78024e5936";
-  const [amount, setAmount] = useState(0);
 
+  
+  const [amount, setAmount] = useState(0);
   const [quoteData, setQuoteData] = useState("");
   const [polygonBalance, setPolygonBalance] = useState(0);
   const [avalancheBalance, setAvalancheBalance] = useState(0);
@@ -16,10 +19,15 @@ function App() {
   const [step1, setStep1] = useState("");
   const [step2, setStep2] = useState("");
   const [step3, setStep3] = useState("");
+
+  // ERC20 ABI
   const erc20_abi = ABI;
-    
+
+  // Path Finder URL
   const PATH_FINDER_API_URL = "https://api.pf.testnet.routerprotocol.com/api";
 
+  
+  // Function to get Quote
   const getQuote = async (params) => {
     const endpoint = "v2/quote";
     const quoteUrl = `${PATH_FINDER_API_URL}/${endpoint}`;
@@ -32,6 +40,7 @@ function App() {
     }
   };
 
+  // Function to check and set Allowance
   const checkAndSetAllowance = async (
     wallet,
     tokenAddress,
@@ -62,6 +71,7 @@ function App() {
     }
   };
 
+  // Final function to execute the transaction
   const getTransaction = async (params, quoteData) => {
     const endpoint = "v2/transaction";
     const txDataUrl = `${PATH_FINDER_API_URL}/${endpoint}`;
@@ -83,6 +93,9 @@ function App() {
       <center>
         <div class="navbar">
           <h1 class="name">Router Nitro Dapp</h1>
+
+
+        {/*Creating ConnectWallet Button */}
           <button
             class="button-52"
             onClick={async () => {
@@ -161,6 +174,8 @@ function App() {
         ></input>
         <h2>Steps Involved!</h2>
         <br></br>
+
+{/*         Step 1: Button to get Quote */}
         <button
           class="button-51"
           onClick={async () => {
@@ -184,6 +199,8 @@ function App() {
 
         <br></br>
         <br></br>
+
+{/*         Step 2: Button to check and set Allowance */}
         <button
           class="button-51"
           onClick={async () => {
@@ -217,6 +234,7 @@ function App() {
         <br></br>
         <br></br>
 
+{/*         Step3: Button to execute the transaction */}
         <button
           class="button-51"
           onClick={async () => {
