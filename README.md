@@ -40,7 +40,7 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 10. [Summary & Cheatsheets](Module10.md)
 
 
-# 🚀 `[Start the Course](Module1.md)`
+# 🚀 [Start the Course](Module1.md)
 
 
 
