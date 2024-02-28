@@ -28,7 +28,7 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 
 ## Index
 
-1. [What's the Need of Router Nitro & Why to Use it?](Module 1.md)
+1. [What's the Need of Router Nitro & Why to Use it?](Module1.md)
 2. [What is Asset Swapping and Asset Transfer?](#2-asset-swapping-and-asset-transfer)
 3. [Introduction to Router Nitro & its Statistics](#3-introduction-to-nitro--statistics-of-nitro)
 4. [What's the Difference between Router Nitro & Other Products in the Market?](#5-differences-between-nitro--other-products-why-nitro-is-the-best)
