@@ -125,20 +125,20 @@ By providing developers with a clear understanding of the codebase and its funct
 
 Instructions: Answer the following questions based on the information presented in Module 8 - Part 2 of the Router Nitro Cookbook. Choose the best answer for each question.
 
-**What is the primary purpose of the checkAndSetAllowance function in the context of Router Nitro?**
+**Q1) What is the primary purpose of the checkAndSetAllowance function in the context of Router Nitro?**
 
 a) To retrieve the current balance of the user's wallet.<br>
 b) To verify and potentially configure allowances for token transfers.<br>
 c) To generate a unique widget ID for the user's dApp integration.<br>
 d) To directly initiate the cross-chain transfer of tokens.
 
-**Under what circumstance does the checkAndSetAllowance function NOT require any execution?**
+**Q2) Under what circumstance does the checkAndSetAllowance function NOT require any execution?**
 
 a) When the allowance for the token is already sufficient for the desired transfer.<br>
 b) When the user has insufficient balance for the desired token transfer.<br>
 c) When the destination chain does not support the ERC20 token standard.
 
-**What information does the erc20_abi variable in the code snippet represent?**
+**Q3) What information does the erc20_abi variable in the code snippet represent?**
 
 a) The private key of the user's cryptocurrency wallet.<br>
 b) The interface definition for interacting with ERC20 token contracts.<br>
