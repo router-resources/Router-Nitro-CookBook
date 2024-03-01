@@ -39,4 +39,27 @@ Moreover, the module introduced essential terms such as Orchestrators, Middlewar
 
 Through a detailed examination of the forwarder flow implementation, Module 6 illustrated how Router Nitro bridges assets seamlessly across different chains while maintaining security and minimizing costs. By employing a reverse verification flow, Router Nitro completes asset transfers with accuracy and reliability, thus offering users a robust solution for interoperability in the blockchain space.
 
+# `Quiz (Module 6)`
+
+Instructions: Answer the following questions based on the information presented in Module 6 of the Router Nitro Cookbook. Choose the best answer for each question.
+
+**What is the role of a forwarder in the context of Router Nitro?**
+
+a) To verify the user's identity and account information.<br>
+b) To provide liquidity for cross-chain asset swaps.<br>
+c) To develop and deploy dApps on the Router Chain.
+
+**Which of the following statements accurately describes the "Forwarder Flow" in Router Nitro?**
+
+a) It involves burning and minting tokens to enable cross-chain transfers.<br>
+b) It relies on a centralized entity to manage and verify all transactions.<br>
+c) It requires forwarders to provide liquidity on multiple blockchains and they get incentivized for doing so.
+
+**According to the module, how does Router Nitro ensure the validity of transactions involving forwarders?**
+
+a) By employing a reverse verification flow where both chains confirm the transfer.<br>
+b) By requiring users to submit additional collateral to secure their transactions.<br>
+c) By utilizing a centralized authority to monitor and approve all asset transfers.
+
+
 # [ Next : Module 7: Explaining the CodeBase of Router Nitro - Part 1 ](Module7.md)
