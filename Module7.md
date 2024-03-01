@@ -114,5 +114,12 @@ b) To retrieve information about fees and other details associated with a potent
 c) To check and set the necessary allowances required for the token transfer.<br>
 d) To connect to the user's cryptocurrency wallet and obtain their private key.
 
+# Share Your Learnings!
+
+![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
+
+
+*Share your learnings on Twitter. Click [here](https://clicktotweet.com/8BhYr)* 
+
 
 # [ Next: Module 8: Explaining the CodeBase of Router Nitro - Part 2](Module8.md)
