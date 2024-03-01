@@ -144,5 +144,12 @@ a) The private key of the user's cryptocurrency wallet.<br>
 b) The interface definition for interacting with ERC20 token contracts.<br>
 c) The specific parameters required for the getQuote function.
 
+# Share Your Learnings!
+
+![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
+
+
+*Share your learnings on Twitter. Click [here](https://clicktotweet.com/8BhYr)* 
+
 
 # [ Next: Module 9: Explaining the CodeBase of Router Nitro - Part 3 ](Module9.md)
