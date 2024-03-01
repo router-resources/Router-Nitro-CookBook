@@ -43,19 +43,19 @@ Through a detailed examination of the forwarder flow implementation, Module 6 il
 
 Instructions: Answer the following questions based on the information presented in Module 6 of the Router Nitro Cookbook. Choose the best answer for each question.
 
-**What is the role of a forwarder in the context of Router Nitro?**
+**Q1) What is the role of a forwarder in the context of Router Nitro?**
 
 a) To verify the user's identity and account information.<br>
 b) To provide liquidity for cross-chain asset swaps.<br>
 c) To develop and deploy dApps on the Router Chain.
 
-**Which of the following statements accurately describes the "Forwarder Flow" in Router Nitro?**
+**Q2) Which of the following statements accurately describes the "Forwarder Flow" in Router Nitro?**
 
 a) It involves burning and minting tokens to enable cross-chain transfers.<br>
 b) It relies on a centralized entity to manage and verify all transactions.<br>
 c) It requires forwarders to provide liquidity on multiple blockchains and they get incentivized for doing so.
 
-**According to the module, how does Router Nitro ensure the validity of transactions involving forwarders?**
+**Q3) According to the module, how does Router Nitro ensure the validity of transactions involving forwarders?**
 
 a) By employing a reverse verification flow where both chains confirm the transfer.<br>
 b) By requiring users to submit additional collateral to secure their transactions.<br>
