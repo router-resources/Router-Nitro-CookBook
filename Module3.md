@@ -50,6 +50,13 @@ b) It utilizes a system of forwarders that holds liquidity on multiple blockchai
 c) It instantly converts assets on the source chain to the equivalent on the destination chain.<br>
 d) It necessarily requires users to burn their assets on the source chain and mint another or same assets on the destination chain.
 
+# Share Your Learnings!
+
+![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
+
+
+*Share your learnings on Twitter. Click [here](https://clicktotweet.com/UxA7n)* 
+
 
 # [Next: Module 4: What's the Difference between Router Nitro & Other Products in the Market?](Module4.md)
 
