@@ -20,4 +20,11 @@ Now, you're good to go to be a Buildooor in Router Protocol's Ecosystem 🚀.
 
 In conclusion, Module 5 has outlined the essential prerequisites for learning and building dApps on Router Nitro effectively. To embark on the journey of mastering Router Nitro and contributing to its ecosystem, individuals should fulfill the above requirements.
 
+# Share Your Learnings!
+
+![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
+
+
+*Share your learnings on Twitter. Click [here](https://clicktotweet.com/Bng8W)* 
+
 # [ Next: Module 6: Understanding Forwarders and How They Work? ](Module6.md)
