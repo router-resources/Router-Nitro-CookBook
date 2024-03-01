@@ -107,7 +107,7 @@ The module provided detailed insights into each step, including code snippets an
 
 Instructions: Answer the following questions based on the information presented in Module 7 - Part 1 of the Router Nitro Cookbook. Choose the best answer for each question.
 
-**What is the primary purpose of the getQuote function in the provided code example?**
+**Q1) What is the primary purpose of the getQuote function in the provided code example?**
 
 a) To initiate the cross-chain token transfer directly.<br>
 b) To retrieve information about fees and other details associated with a potential transfer.<br>
