@@ -26,7 +26,7 @@ As we progress through the course, readers will gain a deeper understanding of R
 
 Instructions: Answer the following questions based on the information presented in Module 4 of the Router Nitro Cookbook. Choose the best answer for each question.
 
-**According to the module, what is one key advantage of Router Nitro compared to other cross-chain bridges?**
+**Q1) According to the module, what is one key advantage of Router Nitro compared to other cross-chain bridges?**
 
 a) It supports a wider range of blockchain ecosystems.<br>
 b) It offers a more user-friendly interface for beginners.<br>
@@ -34,14 +34,14 @@ c) It provides lower fees for cross-chain asset transfers.<br>
 d) It is significantly faster than other bridges.<br>
 e) All of the above
 
-**What is the primary benefit of Router Nitro's "intent-based" system for cross-chain transfers?**
+**Q2) What is the primary benefit of Router Nitro's "intent-based" system for cross-chain transfers?**
 
 a) It streamlines the transaction process by eliminating unnecessary steps.<br>
 b) It necessarily requires users to burn their assets on the source chain and mint another or same assets on the destination chain.<br>
 c) It incentivizes forwarders to participate in the network and punish in case of a malicious activity thus ensuring higher decentralization and security than other bridges.<br>
 d) Both a and c
 
-**Which statement accurately reflects the security implications of Router Nitro's approach?**
+**Q3) Which statement accurately reflects the security implications of Router Nitro's approach?**
 
 a) The absence of TVL locking makes it significantly less vulnerable to malicious attacks than in the case of traditional bridges.<br>
 b) Forwarders are subject to rigorous background checks, ensuring high-security standards.<br>
