@@ -61,5 +61,12 @@ a) By employing a reverse verification flow where both chains confirm the transf
 b) By requiring users to submit additional collateral to secure their transactions.<br>
 c) By utilizing a centralized authority to monitor and approve all asset transfers.
 
+# Share Your Learnings!
+
+![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
+
+
+*Share your learnings on Twitter. Click [here](https://clicktotweet.com/D0eUV)* 
+
 
 # [ Next : Module 7: Explaining the CodeBase of Router Nitro - Part 1 ](Module7.md)
