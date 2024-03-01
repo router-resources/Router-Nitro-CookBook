@@ -31,7 +31,14 @@ Types of Cross-Chain Bridges:
 2. Blockchain Level, Contract Level Security and Code Level Security.
 3. Constant Security Updates, that make Nitro one step ahead of the Hackers.
 
-### Quiz 
+
+# Conclusion
+
+In conclusion, Module 1 has provided a comprehensive overview of the need for Router Nitro and its significance in the context of CrossChain interoperability. We have explored the fundamental concepts of CrossChain bridges and the challenges associated with inter-blockchain communication.
+
+As we progress through the course, we will delve deeper into the functionalities and technical aspects of Router Nitro, building upon the foundation established in Module 1 to explore its full potential and applications in real-world scenarios.
+
+# `Quiz` 
 Instructions: Answer the following questions based on the information presented in Module 1 of the Router Nitro CookBook. Choose the best answer for each question.
 
 **What is one PRIMARY reason for using cross-chain bridges in the blockchain space?**
@@ -56,11 +63,5 @@ b) It serves as an easy to use, secure and efficient solution for cross-chain in
 c) It requires extensive technical knowledge for successful implementation.
 d) Both b and c are correct.
 
-
-# Conclusion
-
-In conclusion, Module 1 has provided a comprehensive overview of the need for Router Nitro and its significance in the context of CrossChain interoperability. We have explored the fundamental concepts of CrossChain bridges and the challenges associated with inter-blockchain communication.
-
-As we progress through the course, we will delve deeper into the functionalities and technical aspects of Router Nitro, building upon the foundation established in Module 1 to explore its full potential and applications in real-world scenarios.
 
 # [Next : Module 2: What is Asset Swapping and Asset Transfer? ](Module2.md)
