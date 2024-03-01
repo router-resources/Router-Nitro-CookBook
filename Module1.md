@@ -43,10 +43,10 @@ Instructions: Answer the following questions based on the information presented 
 
 **What is one PRIMARY reason for using cross-chain bridges in the blockchain space?**
 
-a) To increase transaction fees.
-b) To unlock functionalities across different blockchains.
-c) To migrate liquidity from one blockchain to another.
-d) Both b and c
+a). To increase transaction fees.
+b). To unlock functionalities across different blockchains.
+c). To migrate liquidity from one blockchain to another.
+d). Both b and c
 
 **What is a benefit of using Router Nitro compared to other cross-chain bridges?**
 
