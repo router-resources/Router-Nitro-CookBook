@@ -31,6 +31,32 @@ Types of Cross-Chain Bridges:
 2. Blockchain Level, Contract Level Security and Code Level Security.
 3. Constant Security Updates, that make Nitro one step ahead of the Hackers.
 
+### Quiz 
+Instructions: Answer the following questions based on the information presented in Module 1 of the Router Nitro CookBook. Choose the best answer for each question.
+
+**What is one PRIMARY reason for using cross-chain bridges in the blockchain space?**
+
+a) To increase transaction fees.
+b) To unlock functionalities across different blockchains.
+c) To migrate liquidity from one blockchain to another.
+d) Both b and c
+
+**What is a benefit of using Router Nitro compared to other cross-chain bridges?**
+
+a) It requires significantly less fee for transfer of assets.
+b) It works on no TVL policy.
+c) It is significantly faster than the existing bridges.
+d) All of these
+  
+
+**What is the main takeaway from Module 1 regarding Router Nitro?**
+
+a) It is a complex tool unsuitable for beginners in the blockchain space.
+b) It serves as an easy to use, secure and efficient solution for cross-chain interoperability.
+c) It requires extensive technical knowledge for successful implementation.
+d) Both b and c are correct.
+
+
 # Conclusion
 
 In conclusion, Module 1 has provided a comprehensive overview of the need for Router Nitro and its significance in the context of CrossChain interoperability. We have explored the fundamental concepts of CrossChain bridges and the challenges associated with inter-blockchain communication.
