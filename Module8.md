@@ -121,4 +121,28 @@ The module delved into the codebase, offering insights into the implementation o
 
 By providing developers with a clear understanding of the codebase and its functionalities, Module 8 empowers them to seamlessly integrate Router Nitro into their decentralized applications, facilitating efficient and secure cross-chain token transfers. Through these insights, developers can leverage Router Nitro to enhance interoperability across diverse blockchain networks, unlocking new possibilities in the decentralized finance landscape.
 
+# `Quiz (Module 8 - Part 2)`
+
+Instructions: Answer the following questions based on the information presented in Module 8 - Part 2 of the Router Nitro Cookbook. Choose the best answer for each question.
+
+**What is the primary purpose of the checkAndSetAllowance function in the context of Router Nitro?**
+
+a) To retrieve the current balance of the user's wallet.<br>
+b) To verify and potentially configure allowances for token transfers.<br>
+c) To generate a unique widget ID for the user's dApp integration.<br>
+d) To directly initiate the cross-chain transfer of tokens.
+
+**Under what circumstance does the checkAndSetAllowance function NOT require any execution?**
+
+a) When the allowance for the token is already sufficient for the desired transfer.<br>
+b) When the user has insufficient balance for the desired token transfer.<br>
+c) When the destination chain does not support the ERC20 token standard.
+
+**What information does the erc20_abi variable in the code snippet represent?**
+
+a) The private key of the user's cryptocurrency wallet.<br>
+b) The interface definition for interacting with ERC20 token contracts.<br>
+c) The specific parameters required for the getQuote function.
+
+
 # [ Next: Module 9: Explaining the CodeBase of Router Nitro - Part 3 ](Module9.md)
