@@ -124,6 +124,13 @@ b) To retrieve the current allowance for the token on the source chain.<br>
 c) To gather the necessary transaction data from the Voyager system.<br>
 d) To execute the Cross Chain Transaction
 
+# Share Your Learnings!
+
+![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
+
+
+*Share your learnings on Twitter. Click [here](https://clicktotweet.com/zgEbl)* 
+
 
 # [ Next: Module 10: Summary & Cheatsheets ](Module10.md)
 
