@@ -113,4 +113,18 @@ Here's a summary of the key points covered in this module:
 
 By elucidating the intricacies of transaction execution in cross-chain token transfers, Module 9 equips developers and users with the knowledge and tools necessary to leverage Router Nitro effectively within their decentralized applications. Through these insights, users can facilitate secure, efficient, and seamless token transfers across diverse blockchain networks, thereby fostering greater interoperability and expanding the possibilities within the decentralized finance ecosystem.
 
+# `Quiz (Module 9 - Part 3)`
+
+Instructions: Answer the following questions based on the information presented in Module 9 - Part 3 of the Router Nitro Cookbook. Choose the best answer for each question.
+
+**What is the primary function of the getTransaction function in the context of Router Nitro?**
+
+a) To request a quote for the intended cross-chain token transfer.<br>
+b) To retrieve the current allowance for the token on the source chain.<br>
+c) To gather the necessary transaction data from the Voyager system.<br>
+d) To execute the Cross Chain Transaction
+
+
 # [ Next: Module 10: Summary & Cheatsheets ](Module10.md)
+
+
