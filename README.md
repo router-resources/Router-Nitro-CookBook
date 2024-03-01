@@ -41,9 +41,9 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 
 # `Try it out`
 
-[Testnet]("https://testnet.routernitro.com")
+**[Testnet](https://testnet.routernitro.com)**
 
-[Mainnet]("https://app.routernitro.com")
+**[Mainnet](https://app.routernitro.com)**
 
 # 🚀 [Start the Course](Module1.md)
 
