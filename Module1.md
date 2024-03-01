@@ -64,4 +64,6 @@ c) It requires extensive technical knowledge for successful implementation.<br>
 d) Both b and c are correct.
 
 
+*Share your learnings on Twitter. Click [here](https://clicktotweet.com/3Wp1K)*
+
 # [Next : Module 2: What is Asset Swapping and Asset Transfer? ](Module2.md)
