@@ -48,5 +48,12 @@ b) Forwarders are subject to rigorous background checks, ensuring high-security 
 c) The intent-based system introduces new security risks not present in traditional bridges.<br>
 d) Both a and b
 
+# Share Your Learnings!
+
+![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
+
+
+*Share your learnings on Twitter. Click [here](https://clicktotweet.com/Rwb42)* 
+
 
 # [Next: Module 5: What are Some Prerequisites for Learning Router Nitro? ](Module5.md)
