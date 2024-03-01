@@ -103,4 +103,16 @@ The module demonstrated a practical example using a demo dApp to transfer USDT f
 
 The module provided detailed insights into each step, including code snippets and explanations, to guide developers through the integration process effectively. By following the outlined steps, developers can seamlessly incorporate Nitro into their dApps, enabling efficient and secure cross-chain token transfers.
 
+# `Quiz (Module 7 - Part 1)`
+
+Instructions: Answer the following questions based on the information presented in Module 7 - Part 1 of the Router Nitro Cookbook. Choose the best answer for each question.
+
+**What is the primary purpose of the getQuote function in the provided code example?**
+
+a) To initiate the cross-chain token transfer directly.<br>
+b) To retrieve information about fees and other details associated with a potential transfer.<br>
+c) To check and set the necessary allowances required for the token transfer.<br>
+d) To connect to the user's cryptocurrency wallet and obtain their private key.
+
+
 # [ Next: Module 8: Explaining the CodeBase of Router Nitro - Part 2](Module8.md)
