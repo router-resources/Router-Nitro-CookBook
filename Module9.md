@@ -117,7 +117,7 @@ By elucidating the intricacies of transaction execution in cross-chain token tra
 
 Instructions: Answer the following questions based on the information presented in Module 9 - Part 3 of the Router Nitro Cookbook. Choose the best answer for each question.
 
-**What is the primary function of the getTransaction function in the context of Router Nitro?**
+**Q1) What is the primary function of the getTransaction function in the context of Router Nitro?**
 
 a) To request a quote for the intended cross-chain token transfer.<br>
 b) To retrieve the current allowance for the token on the source chain.<br>
