@@ -53,4 +53,11 @@ b) It allows users to participate in different blockchain ecosystems while maint
 c) It guarantees better returns compared to holding assets on a single Blockchain Network.<br>
 d) Both b and c.
 
+# Share Your Learnings!
+
+![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
+
+
+*Share your learnings on Twitter. Click [here](https://clicktotweet.com/l0j5n)* 
+
 # [Next: Module 3: Introduction to Router Nitro & its Statistics ](Module3.md)
