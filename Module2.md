@@ -32,21 +32,21 @@ As we progress through the course, we will delve deeper into a Cross Chain asset
 
 Instructions: Answer the following questions based on the information presented in Module 2 of the Router Nitro Cookbook. Choose the best answer for each question.
 
-**What is the primary difference between Cross Chain asset swapping and asset transfer?**
+**Q1) What is the primary difference between Cross Chain asset swapping and asset transfer?**
 
 a) Cross Chain swapping means exchange of one token to another on a different blockchain while Cross Chain transfer means sending assets from one blockchain to another.<br>
 b) Cross Chain swapping involves exchanging tokens between blockchains, while Cross Chain transferring stays within one.<br>
 c) Cross Chain swapping is faster than Cross Chain transferring, but less secure.<br>
 d) Cross Chain swapping requires special tools, while Cross Chain transferring only needs wallet addresses.
 
-**According to the module, what is an example of Cross Chain asset swapping?**
+**Q2) According to the module, what is an example of Cross Chain asset swapping?**
 
 a) Sending Bitcoin from one wallet to another on the Bitcoin network.<br>
 b) Exchanging USDC tokens on Ethereum for USDT tokens on Polygon.<br>
 c) Exchanging USDC tokens on Polygon for AVAX on Avalanche<br>
 d) Both b and c
 
-**What benefit does Cross Chain asset swapping offer users in the blockchain space?**
+**Q3) What benefit does Cross Chain asset swapping offer users in the blockchain space?**
 
 a) It reduces transaction fees compared to centralized exchanges.<br>
 b) It allows users to participate in different blockchain ecosystems while maintaining decentralization.<br>
