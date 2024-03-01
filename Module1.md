@@ -42,21 +42,21 @@ As we progress through the course, we will delve deeper into the functionalities
 
 Instructions: Answer the following questions based on the information presented in Module 1 of the Router Nitro Cookbook. Choose the best answer for each question.
 
-**What is one PRIMARY reason for using cross-chain bridges in the blockchain space?**
+**Q1) What is one PRIMARY reason for using cross-chain bridges in the blockchain space?**
 
 a) To increase transaction fees.<br>
 b) To unlock functionalities across different blockchains.<br>
 c) To migrate liquidity from one blockchain to another.<br>
 d) Both b and c
 
-**What is a benefit of using Router Nitro compared to other cross-chain bridges?**
+**Q2) What is a benefit of using Router Nitro compared to other cross-chain bridges?**
 
 a) It requires significantly less fee for transfer of assets.<br>
 b) It works on no TVL policy.<br>
 c) It is significantly faster than the existing bridges.<br>
 d) All of these
 
-**What is the main takeaway from Module 1 regarding Router Nitro?**
+**Q3) What is the main takeaway from Module 1 regarding Router Nitro?**
 
 a) It is a complex tool unsuitable for beginners in the blockchain space.<br>
 b) It serves as an easy-to-use, secure, and efficient solution for cross-chain interoperability.<br>
