@@ -28,8 +28,6 @@ In conclusion, Module 2 has provided a comprehensive understanding of asset swap
 
 As we progress through the course, we will delve deeper into a Cross Chain asset swapping and transfer engine which helps you do transfer and swapping of assets from one blockchain to another in an efficient , cost effective and secure way.
 
-# [Next: Module 3: Introduction to Router Nitro & its Statistics ](Module3.md)
-
 # `Quiz (Module 2)`
 
 Instructions: Answer the following questions based on the information presented in Module 2 of the Router Nitro Cookbook. Choose the best answer for each question.
@@ -55,3 +53,4 @@ b) It allows users to participate in different blockchain ecosystems while maint
 c) It guarantees better returns compared to holding assets on a single Blockchain Network.<br>
 d) Both b and c.
 
+# [Next: Module 3: Introduction to Router Nitro & its Statistics ](Module3.md)
