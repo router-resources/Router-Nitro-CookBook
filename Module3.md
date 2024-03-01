@@ -32,5 +32,24 @@ To explore the current statistics and track the progress of Router Nitro, users 
 
 As we move forward in the course, we will delve deeper into the technical aspects and practical applications of Router Nitro, equipping participants with the knowledge and skills to leverage its capabilities effectively in the blockchain ecosystem.
 
+# `Quiz (Module 3)`
+
+Instructions: Answer the following questions based on the information presented in Module 3 of the Router Nitro Cookbook. Choose the best answer for each question.
+
+**What is the primary function of Router Nitro as described in the module?**
+
+a) To enable seamless transfers of assets across various blockchain networks at a very cheap rate.<br>
+b) To provide a secure and trustless environment for liquidity migration across different blockchains<br>
+c) To act as a centralized exchange for listing and trading cryptocurrencies.<br>
+d) Both a and b.
+
+**According to the module, how does Router Nitro manage cross-chain asset transfers?**
+
+a) It relies on a centralized authority to verify and approve transactions.<br>
+b) It utilizes a system of forwarders that holds liquidity on multiple blockchains.<br>
+c) It instantly converts assets on the source chain to the equivalent on the destination chain.<br>
+d) It necessarily requires users to burn their assets on the source chain and mint another or same assets on the destination chain.
+
+
 # [Next: Module 4: What's the Difference between Router Nitro & Other Products in the Market?](Module4.md)
 
