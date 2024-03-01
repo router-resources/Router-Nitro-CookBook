@@ -39,6 +39,11 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 9. [Explaining the Codebase of Router Nitro - Part 3](Module9.md)
 10. [Summary & Cheatsheets](Module10.md)
 
+# `Try it out`
+
+**[Testnet]("https://testnet.routernitro.com")**
+
+**[Mainnet]("https://app.routernitro.com")**
 
 # 🚀 [Start the Course](Module1.md)
 
